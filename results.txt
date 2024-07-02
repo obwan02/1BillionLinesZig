@@ -1,0 +1,16 @@
+# 1_000_000 lines
+
+> Start
+> ReleaseFast, 4.206
+
+
+> Fast string allocation
+> ReleaseFast, 0.426
+
+
+> Faster (hopefully) number parsing
+> ReleaseFast, 0.114
+
+
+> Everything buffer allocated
+> ReleaseFast, 0.110 (basically 0 change)
