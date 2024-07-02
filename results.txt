@@ -14,3 +14,4 @@
 
 > Everything buffer allocated
 > ReleaseFast, 0.110 (basically 0 change)
+Reverted this change as the general purpose allocator seems sufficient
